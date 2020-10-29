@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
  <head>
    <title>tekkerzzrubot.github.io</title>
